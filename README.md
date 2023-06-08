@@ -41,3 +41,5 @@ Odev: CISCO packet tracer'da resimde görülen ve asagida  ozellikleri verilen b
 8- Lan-2 router bağlantısı ipsi 192.168.35.1 olacaktır.
 
 9- Tüm PC'ler ve laptoplar Lan-2 içerisinde birbiriyle ve Lan-1'dekilerle iletişim kurmalıdır.
+
+![networkodev-b](https://github.com/fenyx-it-academy/vit-network/assets/48627796/54341f43-193c-4d93-b94a-a24496293a12)
